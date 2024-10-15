@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+.container {
+    margin-top: 50px;
+}
+#chessBoard {
+    width: 400px;
+    height: 400px;
+    background-color: #ffffff;
+    border: 2px solid #000000;
+}
